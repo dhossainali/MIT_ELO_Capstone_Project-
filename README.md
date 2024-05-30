@@ -17,7 +17,7 @@ A) is there any relationship between GDP growth and expenditure on R&D? if yes, 
 
 ### Data Analysis
 For data analysis we have used Jupyter Notebook, and Pandas Library for data cleaning, preparing and analysis. For data visualization we have used Matplotbil Library.  
-For technical analysis please click this [link!](Data Analysis/README.md)
+For technical analysis please click this [link](https://github.com/dhossainali/MIT_ELO_Capstone_Project-/blob/a088f7025c962695270538cb91682164993660cd/Data%20Analysis/README.md)
 
 ### Conclusion
 
