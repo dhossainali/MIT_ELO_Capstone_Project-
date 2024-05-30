@@ -16,14 +16,14 @@ We aim to study how expenditure on R&D correlates with GDP growth and whether th
 A) is there any relationship between GDP growth and expenditure on R&D? if yes, to what extent? B) is there any relationship between GDP growth and CO2 per capita emission? 
 
 ### Data Analysis
-For data analysis we have used Jupyter Notebook, and Pandas Library for data cleaning, preparing and analysis. For data visualization we have used Matplotbil Library.  
-For technical analysis please click this [link](https://github.com/dhossainali/MIT_ELO_Capstone_Project-/blob/a088f7025c962695270538cb91682164993660cd/Data%20Analysis/README.md)
+For data analysis we have used Jupyter Notebook, and Pandas Library for data cleaning, preparing and analysis. For data visualization we have used Matplotlib Library.  
+For technical analysis please see this [link.](https://github.com/dhossainali/MIT_ELO_Capstone_Project-/blob/a088f7025c962695270538cb91682164993660cd/Data%20Analysis/README.md)
 
 ### Conclusion
 
 In the first case when we used expenditure on R&D as a percentage of GDP we obtain a moderate positive relationship between the two variables with correlation coefficient of 0.34 and in the second case where we used expenditure on R&D in exact amount we found that there is a strong positive correlation between the two variables (GDP and expenditure on R&D) with correlation coefficient of 0.95.
 Regression analysis also confirms these findings, for the first case R-Squared is low which is 0.11 and in second case R-Squared has improved significantly which is 0.9.
-Furthermore based on the data there is a low level of positive correlation between Gross Domestic Product (GDP) and carbon dioxide (CO2) per capita emission with correlation coefficient of 0.11
+Furthermore based on the data there is a low level of positive correlation between Gross Domestic Product (GDP) and carbon dioxide (CO2) per capita emission with correlation coefficient of 0.11.
 
 ---
 
