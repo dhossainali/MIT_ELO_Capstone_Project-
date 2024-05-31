@@ -1,4 +1,4 @@
-## Relationships between Research and Development, Gross Domestic Product (GDP), and Carbon Dioxide (CO2) Per Capita Emission
+## Relationships between expenditure on Research and Development (R&D), Gross Domestic Product (GDP), and Carbon Dioxide (CO2) Per Capita Emission
 
 ### Introduction
 
